@@ -1,4 +1,4 @@
-# simple-python-gui-calculator-with-bmi-calculation-
+# simple-python-gui-calculator-with-bmi-calculation
 it's a simple calculator designed using the tkinter python gui library that can be used as the calcy for daily use and has the bmi calculation function.
 
 the main moto behind these project is to learn about the gui development using the python programming language. there are various python libraries available for the graphical user interface development TKinter is one of them. in these gui based calculator i've used one console window to display the result's and the data to be taken as the input, there are various numeric buttons for  inputing data for the calculation.
