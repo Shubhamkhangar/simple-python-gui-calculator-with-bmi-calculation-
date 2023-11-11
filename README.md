@@ -6,6 +6,7 @@ the special buttons like clear, equate, bmi are assosiated with the special func
 
 by creating the .exe file of these python project these project can be easily shared with others and also using .exe its very easy to operate the project module.
 
+# link's
 follow the link provided below to learn about how to create the python executable file.
 https://www.geeksforgeeks.org/convert-python-script-to-exe-file/
 
