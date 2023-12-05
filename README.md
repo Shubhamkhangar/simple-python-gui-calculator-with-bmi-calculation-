@@ -1,4 +1,4 @@
-# ![Static Badge](https://img.shields.io/badge/Python_GUI_calculator_with_body_mass_index_calculation-green)
+# Python GUI calculator with body mass index calculation
 
 It's a simple calculator designed using the tkinter python gui library that can be used as the calculator for daily use and has the bmi calculation function.
 
@@ -7,6 +7,8 @@ For normal computational use, we can use the calculator without any mode setting
 
 Python projects can be used as software applications once the normal Python project file is converted into an executable file.
 below, providing the link to the site that will explain and guide you about converting any Python file to an executable file.
+
+![Static Badge](https://img.shields.io/badge/Python-green_Tkinter-blue)
 
 # link
 https://www.geeksforgeeks.org/convert-python-script-to-exe-file/
