@@ -1,4 +1,5 @@
-# Python GUI calculator with body mass index calculation
+# ![Static Badge](https://img.shields.io/badge/Python_GUI_calculator_with_body_mass_index_calculation-green)
+
 It's a simple calculator designed using the tkinter python gui library that can be used as the calculator for daily use and has the bmi calculation function.
 
 The main motivation behind these projects is to learn about GUI development using the Python programming language. There are various Python libraries available for graphical user interface development, and TKinter is one of them. In this GUI-based calculator, I've used one console window to display the result's and an entry widget to take the data from the user as input. There are various numeric buttons and also special operation buttons to perform the computational task.
