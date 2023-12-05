@@ -1,12 +1,12 @@
-# simple-python-gui-calculator-with-bmi-calculation
-it's a simple calculator designed using the tkinter python gui library that can be used as the calcy for daily use and has the bmi calculation function.
+# Python GUI calculator with body mass index calculation
+It's a simple calculator designed using the tkinter python gui library that can be used as the calculator for daily use and has the bmi calculation function.
 
-the main moto behind these project is to learn about the gui development using the python programming language. there are various python libraries available for the graphical user interface development TKinter is one of them. in these gui based calculator i've used one console window to display the result's and the data to be taken as the input, there are various numeric buttons for  inputing data for the calculation.
-the special buttons like clear, equate, bmi are assosiated with the special functionalities, clear button clears the console window, equate button evaluates the algebric expression, the bmi button is used to change to mode of the calculation when pressed now calculator can be able to calculate the body mass  index from the height and weight data inputed from the user.
+The main motivation behind these projects is to learn about GUI development using the Python programming language. There are various Python libraries available for graphical user interface development, and TKinter is one of them. In this GUI-based calculator, I've used one console window to display the result's and an entry widget to take the data from the user as input. There are various numeric buttons and also special operation buttons to perform the computational task.
+For normal computational use, we can use the calculator without any mode settings, but for BMI calculation, we have to enable the BMI mode button. This will enable the user window to be able to take the height and weight data from the user, and after pressing the equate button, display the result on the result bar.
 
-by creating the .exe file of these python project these project can be easily shared with others and also using .exe its very easy to operate the project module.
+Python projects can be used as software applications once the normal Python project file is converted into an executable file.
+below, providing the link to the site that will explain and guide you about converting any Python file to an executable file.
 
 # link's
-follow the link provided below to learn about how to create the python executable file.
 https://www.geeksforgeeks.org/convert-python-script-to-exe-file/
 
