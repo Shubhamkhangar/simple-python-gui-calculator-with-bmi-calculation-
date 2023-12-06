@@ -10,6 +10,7 @@ Python projects can be used as software applications once the normal Python proj
 below, providing the link to the site that will explain and guide you about converting any Python file to an executable file.
 
 
+![Static Badge](https://img.shields.io/badge/Download_the_exe_from_repository-green)
 
 
 
