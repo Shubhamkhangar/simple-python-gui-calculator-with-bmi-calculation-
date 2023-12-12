@@ -7,11 +7,11 @@ The main motivation behind these projects is to learn about GUI development usin
 For normal computational use, we can use the calculator without any mode settings, but for BMI calculation, we have to enable the BMI mode button. This will enable the user window to be able to take the height and weight data from the user, and after pressing the equate button, display the result on the result bar.
 
 Python projects can be used as software applications once the normal Python project file is converted into an executable file.
-below, providing button to direct you to folder from where you can download the executable file of this project.
+below, providing link's to direct you to folder from where you can download the executable file of this project.
 
 
-[![Static Badge](https://img.shields.io/badge/Download_the_exe_from_repository-green)](calculator.exe)
-[![Static Badge](https://img.shields.io/badge/View_Python_Code-blue)](script.py)
+[Download_the_exe_from_repository](calculator.exe)
+[View_Python_Code](script.py)
 
 
 #Programing Language and Library Modules
